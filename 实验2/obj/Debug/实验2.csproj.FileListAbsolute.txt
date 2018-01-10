@@ -1,0 +1,6 @@
+E:\c#项目\实验2\实验2\bin\Debug\实验2.exe.config
+E:\c#项目\实验2\实验2\bin\Debug\实验2.exe
+E:\c#项目\实验2\实验2\bin\Debug\实验2.pdb
+E:\c#项目\实验2\实验2\obj\Debug\实验2.csprojResolveAssemblyReference.cache
+E:\c#项目\实验2\实验2\obj\Debug\实验2.exe
+E:\c#项目\实验2\实验2\obj\Debug\实验2.pdb
