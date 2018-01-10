@@ -1,6 +1,0 @@
-E:\c#项目\实验3\实验3\bin\Debug\实验3.exe.config
-E:\c#项目\实验3\实验3\bin\Debug\实验3.exe
-E:\c#项目\实验3\实验3\bin\Debug\实验3.pdb
-E:\c#项目\实验3\实验3\obj\Debug\实验3.csprojResolveAssemblyReference.cache
-E:\c#项目\实验3\实验3\obj\Debug\实验3.exe
-E:\c#项目\实验3\实验3\obj\Debug\实验3.pdb
